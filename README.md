@@ -10,7 +10,7 @@ RAMLOID is a lightweight Windows tool that allows users to **check their RAM det
 ---
 
 ## **Download & Installation**
-### **Option 1: Download Precompiled `.exe` (Recommended)**
+### **Option 1: Download Precompiled `.exe`**
 1. Go to the **[Releases](https://github.com/MMDLOID/RAMLOID/releases)** section.
 2. Download the latest `RAMLOID.exe`.
 3. Run the `.exe` – No installation required
